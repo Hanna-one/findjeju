@@ -1,5 +1,4 @@
 # React Team Project - 제주도 구석구석
-
 # ![logo](https://github.com/Hanna-one/findjeju/assets/141300455/2bc50313-07c4-4bb9-88cb-f6f436653c2d)
 
 
